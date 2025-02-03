@@ -1,18 +1,18 @@
-# Workwise - Backend
+# Workwise - Backend 
 
 ## Overview
-The backend for Workwise is built with Node.js and provides essential functionalities for managing a job website. It handles authentication, and various API ebdpoints and about admin and users.
+The backend for Workwise is built with Node.js and provides essential functionalities for managing a job website. It handles authentication, and various API ebdpoints and about admin and users. 
 
-## Features
+## Features 
 ##API Endpoints
 
 ### User API
- Post/api/user/register
+ Post/api/user/register 
  post/api/user/login
 
 ### Job API
 api/job/post
-api/get/myjobs
+api/get/myjobs 
 api/update/Job
 
 
@@ -37,7 +37,7 @@ PORT: 4000
 
 
 ## Auther
-Yusha Neupane
+Yusha Neupane 
 
 
 
