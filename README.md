@@ -12,7 +12,7 @@ The backend for Workwise is built with Node.js and provides essential functional
 
 ### Job API
 api/job/post
-api/get/myjobs
+api/get/myjobs 
 api/update/Job
 
 
