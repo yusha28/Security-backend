@@ -32,7 +32,7 @@ MongoDB
 
 ## Environmental Variables
 MONGO_URL: mongodb://localhost:27017/check 
-JWT_SECRET:Hello
+JWT_SECRET:Hello 
 PORT: 4000
 
 
