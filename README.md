@@ -11,7 +11,7 @@ The backend for Workwise is built with Node.js and provides essential functional
  post/api/user/login
 
 ### Job API
-api/job/post
+api/job/post 
 api/get/myjobs 
 api/update/Job
 
