@@ -28,7 +28,7 @@ Use of JSON WEB TOKENS (JWS)
 Node.js
 Express.js
 Mongoose
-MongoDB
+MongoDB 
 
 ## Environmental Variables
 MONGO_URL: mongodb://localhost:27017/check 
