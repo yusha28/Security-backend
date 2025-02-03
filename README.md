@@ -21,7 +21,7 @@ api/get/logout
 
 
 ## Authentication
-### JWS-based Authentication
+### JWS-based Authentication 
 Use of JSON WEB TOKENS (JWS)
 
 ## Technoloogies 
