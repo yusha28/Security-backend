@@ -22,7 +22,7 @@ api/get/logout
 
 ## Authentication
 ### JWS-based Authentication 
-Use of JSON WEB TOKENS (JWS)
+Use of JSON WEB TOKENS (JWS) 
 
 ## Technoloogies 
 Node.js
