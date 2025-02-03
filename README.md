@@ -11,7 +11,7 @@ The backend for Workwise is built with Node.js and provides essential functional
  post/api/user/login
 
 ### Job API
-api/job/post
+api/job/post 
 api/get/myjobs 
 api/update/Job
 
@@ -24,15 +24,15 @@ api/get/logout
 ### JWS-based Authentication
 Use of JSON WEB TOKENS (JWS)
 
-## Technoloogies
+## Technoloogies 
 Node.js
 Express.js
 Mongoose
 MongoDB
 
 ## Environmental Variables
-MONGO_URL: mongodb://localhost:27017/check
-JWT_SECRET:Hello
+MONGO_URL: mongodb://localhost:27017/check 
+JWT_SECRET:Hello 
 PORT: 4000
 
 
