@@ -26,7 +26,7 @@ Use of JSON WEB TOKENS (JWS)
 
 ## Technoloogies 
 Node.js
-Express.js
+Express.js 
 Mongoose
 MongoDB 
 
