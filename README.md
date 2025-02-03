@@ -24,7 +24,7 @@ api/get/logout
 ### JWS-based Authentication
 Use of JSON WEB TOKENS (JWS)
 
-## Technoloogies
+## Technoloogies 
 Node.js
 Express.js
 Mongoose
